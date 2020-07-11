@@ -35,8 +35,9 @@ mkdir -p A/{B/{G/K/N/Reboot.txt,H/J/N/Reboot.txt},C/{I/J/N/Reboot.txt,J/L/N/Rebo
 
 ### 4 share and files and folder 
 
-![img1](4.PNG)
-![img1](4.2.PNG)
+![img1](4.3.PNG)
+![img1](4.4.PNG)
+![img1](4.5.PNG)
 
 1. First we need to create the users jack and jill. Now we need to set the password for the users.
 ```
